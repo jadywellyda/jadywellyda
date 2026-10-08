@@ -6,6 +6,20 @@ Este perfil reúne projetos de estudo voltados à criação de aplicações úte
 
 ## Projetos do portfólio
 
+### [Candidaturas API](https://github.com/jadywellyda/candidaturas-api)
+
+API REST para organizar empresas, vagas, candidaturas, etapas de seleção e entrevistas. Inclui validação, filtros, paginação, persistência em banco e 11 testes automatizados.
+
+**Tecnologias do projeto:** Java 21 · Spring Boot · Spring Data JPA · H2 · Flyway  
+**Contexto:** projeto de estudo desenvolvido com assistência de IA; exemplos fictícios.
+
+### [Reservas API](https://github.com/jadywellyda/reservas-api)
+
+API REST para salas de estudo, disponibilidade, reservas, reagendamento e cancelamento. Impede sobreposição de horários mesmo com solicitações simultâneas e inclui 13 testes automatizados.
+
+**Tecnologias do projeto:** Java 21 · Spring Boot · Spring Data JPA · H2 · Flyway  
+**Contexto:** projeto de estudo desenvolvido com assistência de IA; exemplos fictícios.
+
 ### [Biblioteca Java](https://github.com/jadywellyda/biblioteca-java)
 
 Aplicação de console para cadastrar e pesquisar livros, registrar empréstimos e devoluções e consultar atrasos. Possui validações, persistência em arquivo e 19 verificações automáticas.
